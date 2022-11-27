@@ -9,4 +9,5 @@ Readme:
   	
   	- For running FID for motion, use https://github.com/XiaonaZhou/Text_to_Image_analysis/tree/main/lowres_extracted_motion_images_from_COCO/LowRes this folder in the github. It contains motion images downsampled to 256 x 256. During running the FID, it will also downsample your generated image to 256 x 256.
   	
+   - I and Xiaona are still in favor of keeping motion in quantitative analysys just to compare among models, even though it's not as effective as faces.
   	
